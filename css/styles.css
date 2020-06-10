@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.digital p {
+  background-color: red;
+}
+
+.analog p {
+  background-color: yellow;
+}
